@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+
+    background: url("personal background.gif");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+
